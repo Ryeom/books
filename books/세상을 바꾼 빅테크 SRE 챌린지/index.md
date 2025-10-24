@@ -1,7 +1,7 @@
 # Index
 
 
-### PARTI SRE 구축
+### PART 1 SRE 구축
 - 1장 SRE 관점에서 문맥과 통제 
 - 2장 SRE 인터뷰 
 - 3장 그래서 SRE 팀을 구성하고 싶은가? 
